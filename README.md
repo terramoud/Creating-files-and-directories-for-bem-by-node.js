@@ -1,6 +1,5 @@
 # Creating-files-and-directories-for-bem-by-node.js
 
-
 1) install: npm i --save-dev fs prepend-file
 
 2) Launch: open console and be inputing: node cbem.js index BlockName BlockName__ElementName_Modificator_Value __ElementName _Modificator
