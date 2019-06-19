@@ -19,4 +19,5 @@
 2.6) And you can edit the file for yourself
 
 3) Editing the file: Default start directory "Common.blocks/". You can change this. Just replace all "Common.blocks/" with "YourPath"
-That's all on today)
+
+That's all)
