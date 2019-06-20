@@ -20,4 +20,5 @@
 
 3) Editing the file: Default start directory "Common.blocks/". You can change this. Just replace all "Common.blocks/" with "YourPath"
 
+4) File cbem.js must been in root directory of project. For example D:\UI_kit\cbem.js
 That's all)
